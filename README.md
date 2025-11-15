@@ -4,7 +4,7 @@
 Name: Ashmitha Kumbham 
 Course: Machine Learning 
 Assignment: Homework 4 – Clustering, NLP Theory, and Coding
-Easyly access the whole content throw the link in brightspace : 
+Easyly access the whole content throw the link in brightspace : https://github.com/ashmithashekhar/ML_Homework-_4/blob/main/README.md
 
 ---
 
